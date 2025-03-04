@@ -21,7 +21,5 @@ public class Calculator {
         return (double) a / b;
     }
 
-    // This is a test message made by xuanchen
-    // my comment
-    // comment 5:26
+    // deleted comments
 }
