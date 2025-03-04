@@ -20,4 +20,7 @@ public class Calculator {
         // TODO: Implement this method
         return (double) a / b;
     }
+
+    // This is a test message made by xuanchen
+
 }
